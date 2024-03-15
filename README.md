@@ -20,11 +20,13 @@ The total supply of $LMAOGetsPaid tokens is set at 404,040,404, reflecting the p
 
 The distribution of $LMAOGetsPaid tokens is designed to maximize community engagement and reward participation across various phases of the project. The allocation is as follows:
 
-- **Airdrops (80%)**: A significant portion of the total supply, amounting to 323,232,323 tokens, is allocated for airdrops. This is divided into several phases to encourage different types of community engagement:
+- **Airdrops (60%)**: A significant portion of the total supply, amounting to 242,424,242 tokens, is allocated for airdrops. This is divided into several phases to encourage different types of community engagement:
   - **Phase 1**: Twitter followers and interactions.
   - **Phase 2**: Discord community engagement.
   - **Phase 3**: Rewards for completing minting tasks.
   - **Phase 4**: Additional rewards for completing extra tasks.
+
+- **Liquidity Pool (20%)**: Recognizing the critical importance of liquidity for the success of any cryptocurrency, 80,808,080 tokens are allocated towards establishing and maintaining liquidity pools. This allocation is fundamental to ensuring that $LMAOGetsPaid tokens remain easily tradable and accessible for all community members.
 
 - **Community Operations (19%)**: To ensure the sustainability and growth of the $LMAOGetsPaid community, 76,767,676 tokens are reserved for community management, marketing initiatives, and other activities that support the ecosystem.
 
