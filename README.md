@@ -12,15 +12,23 @@ In today’s fast-paced, high-pressure world, finding moments of joy and maintai
 
 ## Tokenomics
 
-$LMAOGetsPaid introduces a unique distribution model that emphasizes community engagement and participation:
-- **Total Supply**: To be determined.
-- **Airdrops (80%)**:
-  - **Phase 1**: Twitter engagement.
-  - **Phase 2**: Discord community interaction.
-  - **Phase 3**: Reward for completing minting tasks.
-  - **Phase 4**: Reward for additional tasks.
-- **Community Operations (19%)**: To support community management, marketing initiatives, and growth strategies.
-- **Founders Team (1%)**: To reward the project's creator.
+### Total Supply
+
+The total supply of $LMAOGetsPaid tokens is set at 404,040,404, reflecting the project's playful spirit and commitment to creating a unique and engaging community experience. This number is not only a nod to the well-known "404 Not Found" internet error, symbolizing the fun and unpredictable journey of exploring the cryptocurrency world, but also represents a balanced approach to supply that aims to foster community growth and participation.
+
+### Distribution Plan
+
+The distribution of $LMAOGetsPaid tokens is designed to maximize community engagement and reward participation across various phases of the project. The allocation is as follows:
+
+- **Airdrops (80%)**: A significant portion of the total supply, amounting to 323,232,323 tokens, is allocated for airdrops. This is divided into several phases to encourage different types of community engagement:
+  - **Phase 1**: Twitter followers and interactions.
+  - **Phase 2**: Discord community engagement.
+  - **Phase 3**: Rewards for completing minting tasks.
+  - **Phase 4**: Additional rewards for completing extra tasks.
+
+- **Community Operations (19%)**: To ensure the sustainability and growth of the $LMAOGetsPaid community, 76,767,676 tokens are reserved for community management, marketing initiatives, and other activities that support the ecosystem.
+
+- **Founding Team (1%)**: In recognition of their vision and efforts in bringing $LMAOGetsPaid to life, 4,040,404 tokens are allocated to the founding team. This modest allocation underscores the team's commitment to the project's community-driven ethos.
 
 ## The Philosophy Behind $LMAOGetsPaid
 
